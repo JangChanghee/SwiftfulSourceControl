@@ -11,6 +11,7 @@
 		FB4C4DA92BF8C1FB0009FAF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4C4DA82BF8C1FB0009FAF0 /* ContentView.swift */; };
 		FB4C4DAB2BF8C1FC0009FAF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB4C4DAA2BF8C1FC0009FAF0 /* Assets.xcassets */; };
 		FB4C4DAE2BF8C1FC0009FAF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB4C4DAD2BF8C1FC0009FAF0 /* Preview Assets.xcassets */; };
+		FB4C4DB52BF8E0C90009FAF0 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4C4DB42BF8E0C90009FAF0 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FB4C4DA82BF8C1FB0009FAF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB4C4DAA2BF8C1FC0009FAF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB4C4DAD2BF8C1FC0009FAF0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB4C4DB42BF8E0C90009FAF0 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				FB4C4DA62BF8C1FB0009FAF0 /* SwiftfulSourceControlApp.swift */,
 				FB4C4DA82BF8C1FB0009FAF0 /* ContentView.swift */,
+				FB4C4DB42BF8E0C90009FAF0 /* HomeView.swift */,
 				FB4C4DAA2BF8C1FC0009FAF0 /* Assets.xcassets */,
 				FB4C4DAC2BF8C1FC0009FAF0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB4C4DB52BF8E0C90009FAF0 /* HomeView.swift in Sources */,
 				FB4C4DA92BF8C1FB0009FAF0 /* ContentView.swift in Sources */,
 				FB4C4DA72BF8C1FB0009FAF0 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
